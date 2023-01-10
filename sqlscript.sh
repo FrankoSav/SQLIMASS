@@ -5,10 +5,10 @@ figlet "SQLIMASS"
 echo "By:FrankoSav"
 
 show_menu() {
-    echo "1. Realizar prueba de inyección SQL en una URL"
-    echo "2. Realizar prueba de inyección SQL en varias URLs"
-    echo "3. Realizar prueba de inyección SQL en un archivo de URLs"
-    echo "4. Salir"
+    echo "1-> Realizar prueba de inyección SQL en una URL"
+    echo "2-> Realizar prueba de inyección SQL en varias URLs"
+    echo "3-> Realizar prueba de inyección SQL en un archivo de URLs"
+    echo "4-> Salir"
 }
 
 
