@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-figlet "SQLIMASSs"
+figlet "SQLIMASS"
 echo "By:FrankoSav"
 
 show_menu() {
